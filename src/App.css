@@ -1,0 +1,16 @@
+.App{
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.card-wrapper{
+    width: 100px;
+    padding: 15px;
+
+}
+
+.card-wrapper img{
+    width: 100%;
+    height: 280px;
+}

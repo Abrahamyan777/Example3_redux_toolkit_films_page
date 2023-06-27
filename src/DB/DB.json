@@ -1,0 +1,69 @@
+{
+  "films" : [
+    {
+      "id": 1,
+      "title" : "Spider-Man",
+      "type" : "film",
+      "genre" : "fantastic",
+      "url" : "https://gamingbolt.com/wp-content/uploads/2022/07/marvels-spider-man-pc-image.jpg"
+    },
+    {
+      "id": 2,
+      "title" : "Мумия",
+      "type" : "film",
+      "genre" : "action",
+      "url" : "https://static.okko.tv/images/v2/15626583?scale=1&quality=80"
+    },
+    {
+      "id": 3,
+      "title" : "FANTASTIC FOUR",
+      "type" : "film",
+      "genre" : "fantastic",
+      "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSaaXa-sv2-ZH6_AP8V7VfNdAsjvAXbRa_H5IYcUuJDOC2Wgw9SL2fUecwTjbCKUzzmo&usqp=CAU"
+    },
+
+    {
+      "id": 4,
+      "title" : "Tom and Jerry",
+      "type" : "multfilm",
+      "genre" : "comedy",
+      "url" : "https://wallpaperaccess.com/full/215445.jpg"
+    },
+    {
+      "id": 5,
+      "title" : "nu pogodi",
+      "type" : "multfilm",
+      "genre" : "comedy",
+      "url" : "https://news.store.rambler.ru/img/dbdc410608e4c3827cba643409013971?img-format=auto&img-1-resize=height:355,fit:max&img-2-filter=sharpen"
+    },
+    {
+      "id": 6,
+      "title" : "Lego Muve",
+      "type" : "multfilm",
+      "genre" : "comedy",
+      "url" : "https://play-lh.googleusercontent.com/proxy/tbZs0RFO3pnQR9wcMbMQ9jMExgB2O_DQWIIkLDcwnaknMW-mtTyIZdm2jJActl-W9IsmHmwCUoqCLDADak3PebxqgIDhXEEh0gPsWfIjuIsV4-6dU5us6K5D=s3840-w3840-h2160"
+    },
+    
+    {
+      "id": 7,
+      "title" : "Mandalorian",
+      "type" : "serial",
+      "genre" : "fantastic",
+      "url" : "https://www.techadvisor.com/wp-content/uploads/2022/06/mandalorian-season-2-mando-baby-yoda.jpg?quality=50&strip=all"
+    },
+    {
+      "id": 8,
+      "title" : "Squid Game",
+      "type" : "serial",
+      "genre" : "fantastic",
+      "url" : "https://flixpatrol.com/runtime/cache/files/posters/d/ddlemu3ez0pgg93k2svnlcjcsve.webp"
+    },
+    {
+      "id": 9,
+      "title" : "Friends",
+      "type" : "serial",
+      "genre" : "comedy",
+      "url" : "https://m.media-amazon.com/images/M/MV5BZDc2NTg5YWUtZGZlZC00Y2VmLTgwZjEtZDUxM2QyNGRmYjZlXkEyXkFqcGdeQWFybm8@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+    }
+  ]
+}

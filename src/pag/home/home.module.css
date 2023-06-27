@@ -1,0 +1,20 @@
+.ImgSlider {
+    margin-top: 40px;
+    
+}
+.homeBlock{
+    color: white;
+}
+.block{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.block button{
+    background-color: red;
+    border: none;
+    border-radius: 3px;
+    padding: 3px 35px;
+    color: white;
+    font-size: 25px;
+}
